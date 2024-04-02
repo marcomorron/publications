@@ -3,5 +3,5 @@ layout: default
 title: My publications
 ---
 
-<summary><i>All my publications</i></summary>
+<i>All my publications</i>
 {% include publications %}

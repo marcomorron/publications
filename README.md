@@ -1,2 +1,4 @@
-# publications
-Testing Scholar Publications
+#publications
+
+Tutte le mie pubblicazioni
+{% include publications %}

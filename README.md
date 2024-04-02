@@ -1,4 +1,1 @@
-#publications
-
-Tutte le mie pubblicazioni
-{% include publications %}
+Test, tutte le mie pubblicazioni
